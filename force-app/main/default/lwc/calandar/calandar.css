@@ -1,0 +1,11 @@
+.outerPart
+{
+    background-color:rgba(138, 177, 159, 0.685);
+}
+div{
+    text-align: center;
+}
+p{
+    font-size: 200%;
+    color:white;
+}
